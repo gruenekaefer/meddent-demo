@@ -1,0 +1,135 @@
+{
+ "note": "Sample content for the public demo. Written for this demo only; it is not the course's lessons or question bank, and it is awaiting faculty review.",
+ "modules": [
+  {
+   "slug": "basic-life-support",
+   "order": 1,
+   "title": "Basic Life Support",
+   "subtitle": "Adult emergencies: a shared response for medicine and dentistry",
+   "summary": "Prepare a mixed FK–FKG team to recognize an adult collapse, organize a coordinated response, and practise CPR and AED use under instructor supervision.",
+   "tagline": "THE FOUNDATIONS OF RESPONSE",
+   "visual": "bls",
+   "onlineMinutes": 60,
+   "practicalMinutes": 45,
+   "passPercent": 80,
+   "maxAttempts": 2,
+   "objectives": [
+    "Approach a collapsed adult safely and call for help early.",
+    "Describe the features of high-quality chest compressions.",
+    "Use an AED safely as part of a coordinated team."
+   ],
+   "lessons": [
+    {
+     "id": "bls-1",
+     "title": "Sample lesson: A safe approach and an early call for help",
+     "minutes": 5,
+     "content": [
+      "This is demonstration text. In the real course, faculty-reviewed lesson notes appear here.",
+      "When an adult collapses in a clinic, the first responder checks that the area is safe, assesses the person, and calls for help and an AED without delay. In a dental setting, that may mean stopping treatment, reclining the chair, and clearing instruments from the mouth.",
+      "A clear call for help names the location, what happened, and what is needed."
+     ],
+     "activity": "With a partner from the other faculty, agree who calls for help and who fetches the AED in your clinic."
+    },
+    {
+     "id": "bls-2",
+     "title": "Sample lesson: High-quality chest compressions",
+     "minutes": 6,
+     "content": [
+      "This is demonstration text. In the real course, faculty-reviewed lesson notes appear here.",
+      "High-quality compressions are delivered in the centre of the chest, on the lower half of the sternum, at a rate of 100 to 120 per minute and a depth of 5 to 6 cm in an adult. Allow the chest to recoil fully after each compression, and keep interruptions short.",
+      "Rotate the person compressing about every two minutes, because quality falls as rescuers tire."
+     ],
+     "activity": "Count aloud for one minute to feel a rate between 100 and 120 per minute."
+    }
+   ],
+   "materials": [
+    { "id": "bls-reading", "title": "Sample reading pack (demonstration PDF)", "required": true, "pages": 2, "file": "demo-material.pdf" }
+   ],
+   "case": {
+    "title": "Sample case: Collapse in a dental teaching clinic",
+    "scenario": "Fictional scenario. A 58-year-old patient becomes unresponsive in the dental chair during a routine examination. A dental student and a medical student are both nearby. An AED is mounted in the corridor.",
+    "tasks": [
+     "Agree the first three actions and who does each one.",
+     "Decide when the AED is applied and who operates it.",
+     "Describe what each profession contributes to the response."
+    ]
+   },
+   "practical": "Instructor-observed adult BLS simulation",
+   "preTest": [
+    { "id": "p1", "stem": "Sample question: What is the recommended chest compression rate for an adult?", "options": [{"id":"A","text":"60 to 80 per minute"},{"id":"B","text":"80 to 100 per minute"},{"id":"C","text":"100 to 120 per minute"},{"id":"D","text":"140 to 160 per minute"}], "correct": "C", "rationale": "Adult compressions are delivered at 100 to 120 per minute." },
+    { "id": "p2", "stem": "Sample question: What is the recommended compression depth for an adult?", "options": [{"id":"A","text":"2 to 3 cm"},{"id":"B","text":"3 to 4 cm"},{"id":"C","text":"5 to 6 cm"},{"id":"D","text":"8 to 10 cm"}], "correct": "C", "rationale": "Adult compressions should reach 5 to 6 cm." },
+    { "id": "p3", "stem": "Sample question: An adult collapses in the clinic corridor. What do you check before approaching?", "options": [{"id":"A","text":"That the area is safe for you and the patient"},{"id":"B","text":"The patient's medical records"},{"id":"C","text":"Whether the patient has a dental appointment"},{"id":"D","text":"The patient's blood pressure"}], "correct": "A", "rationale": "Rescuer and patient safety come first." }
+   ],
+   "postTest": [
+    { "id": "q1", "stem": "Sample question: Where should the hands be placed for adult chest compressions?", "options": [{"id":"A","text":"On the upper abdomen"},{"id":"B","text":"On the centre of the chest, lower half of the sternum"},{"id":"C","text":"On the left side of the chest"},{"id":"D","text":"On the upper third of the sternum"}], "correct": "B", "rationale": "Compress on the centre of the chest, on the lower half of the sternum." },
+    { "id": "q2", "stem": "Sample question: What should happen between compressions?", "options": [{"id":"A","text":"Keep pressure on the chest to save time"},{"id":"B","text":"Allow the chest to recoil fully"},{"id":"C","text":"Check the pulse after each compression"},{"id":"D","text":"Pause for one second"}], "correct": "B", "rationale": "Full recoil lets the heart refill between compressions." },
+    { "id": "q3", "stem": "Sample question: The AED advises a shock. What must you do before pressing the shock button?", "options": [{"id":"A","text":"Remove the pads and reapply them"},{"id":"B","text":"Give two rescue breaths"},{"id":"C","text":"Make sure no one is touching the patient"},{"id":"D","text":"Check the pupils"}], "correct": "C", "rationale": "Everyone must stand clear so that no one else receives the shock." }
+   ]
+  },
+  {
+   "slug": "interprofessional-maxillofacial-fractures",
+   "order": 2,
+   "title": "Interprofessional Management of Maxillofacial Fractures",
+   "subtitle": "Shared assessment, escalation, and care planning across medicine and dentistry",
+   "summary": "Work in a mixed FK–FKG team to prioritize a facial-trauma presentation, combine medical and dental findings, and communicate an agreed escalation and follow-up plan.",
+   "tagline": "A SHARED APPROACH TO TRAUMA",
+   "visual": "fractures",
+   "onlineMinutes": 75,
+   "practicalMinutes": 45,
+   "passPercent": 80,
+   "maxAttempts": 2,
+   "objectives": [
+    "Recognize dental injuries that need urgent action.",
+    "Link nerve findings to the likely site of a facial injury.",
+    "Combine medical and dental findings into one plan."
+   ],
+   "lessons": [
+    {
+     "id": "mf-1",
+     "title": "Sample lesson: Dental injuries in the emergency setting",
+     "minutes": 6,
+     "content": [
+      "This is demonstration text. In the real course, faculty-reviewed lesson notes appear here.",
+      "An avulsed permanent tooth is a time-critical dental emergency. Handle it by the crown, not the root. If it cannot be replanted at once, store it in milk or saline rather than water, and seek dental care urgently.",
+      "Avulsed primary (baby) teeth are not replanted."
+     ],
+     "activity": "List what you would ask a patient or carer about a knocked-out tooth before calling the dental team."
+    },
+    {
+     "id": "mf-2",
+     "title": "Sample lesson: Nerve findings after facial trauma",
+     "minutes": 6,
+     "content": [
+      "This is demonstration text. In the real course, faculty-reviewed lesson notes appear here.",
+      "Numbness of the cheek, side of the nose and upper lip suggests injury near the infraorbital nerve, as in cheekbone and orbital floor fractures. Numbness of the lower lip and chin suggests involvement of the inferior alveolar nerve in a mandibular fracture.",
+      "Double vision, especially on looking up, raises concern about the orbit and needs prompt assessment."
+     ],
+     "activity": "Sketch the face and mark where you would test sensation, then compare with a colleague from the other faculty."
+    }
+   ],
+   "materials": [
+    { "id": "mf-reading", "title": "Sample reading pack (demonstration PDF)", "required": true, "pages": 2, "file": "demo-material.pdf" }
+   ],
+   "case": {
+    "title": "Sample case: A cyclist with facial injuries",
+    "scenario": "Fictional scenario. A 24-year-old cyclist falls onto their face. They are alert and talking, with swelling over the left cheek, numbness of the upper lip, and an upper front tooth that has been knocked out and is in their hand.",
+    "tasks": [
+     "List the medical findings and the dental findings separately.",
+     "Decide what needs action first, and who leads it.",
+     "Agree a plan for the knocked-out tooth and a follow-up."
+    ]
+   },
+   "practical": "Instructor-observed joint facial trauma station",
+   "preTest": [
+    { "id": "p1", "stem": "Sample question: A permanent tooth is knocked out and cannot be replanted at once. How should it be stored?", "options": [{"id":"A","text":"Wrapped in dry tissue"},{"id":"B","text":"In tap water"},{"id":"C","text":"In milk"},{"id":"D","text":"In a dry container on ice"}], "correct": "C", "rationale": "Milk (or saline) keeps the root cells alive better than water or dry storage." },
+    { "id": "p2", "stem": "Sample question: Numbness of the lower lip after a jaw injury suggests involvement of which nerve?", "options": [{"id":"A","text":"Facial nerve"},{"id":"B","text":"Inferior alveolar nerve"},{"id":"C","text":"Infraorbital nerve"},{"id":"D","text":"Lingual nerve"}], "correct": "B", "rationale": "The inferior alveolar nerve, through its mental branch, supplies the lower lip and chin." },
+    { "id": "p3", "stem": "Sample question: Which finding after a blow to the cheek most suggests orbital involvement?", "options": [{"id":"A","text":"A small cut on the lip"},{"id":"B","text":"A front tooth sensitive to cold"},{"id":"C","text":"Double vision on looking up"},{"id":"D","text":"Mild bruising of the chin"}], "correct": "C", "rationale": "Double vision on upward gaze can indicate an orbital floor injury." }
+   ],
+   "postTest": [
+    { "id": "q1", "stem": "Sample question: How should an avulsed permanent tooth be held?", "options": [{"id":"A","text":"By the root"},{"id":"B","text":"By the crown"},{"id":"C","text":"Wrapped tightly around the root"},{"id":"D","text":"It does not matter"}], "correct": "B", "rationale": "Holding the crown protects the root surface cells needed for reattachment." },
+    { "id": "q2", "stem": "Sample question: Numbness of the cheek and upper lip after a cheekbone injury suggests which nerve is involved?", "options": [{"id":"A","text":"Infraorbital nerve"},{"id":"B","text":"Inferior alveolar nerve"},{"id":"C","text":"Facial nerve"},{"id":"D","text":"Hypoglossal nerve"}], "correct": "A", "rationale": "The infraorbital nerve supplies the cheek, side of the nose and upper lip." },
+    { "id": "q3", "stem": "Sample question: Which dental injury needs the most urgent action?", "options": [{"id":"A","text":"A small chip of enamel"},{"id":"B","text":"An avulsed permanent tooth"},{"id":"C","text":"An avulsed primary tooth"},{"id":"D","text":"A tooth that has darkened over months"}], "correct": "B", "rationale": "An avulsed permanent tooth has the best outcome when replanted quickly. Primary teeth are not replanted." }
+   ]
+  }
+ ]
+}

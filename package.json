@@ -1,0 +1,10 @@
+{
+  "name": "meddent-demo",
+  "private": true,
+  "description": "Static interactive demo of the MED-DENT Emergencies learning portal, with fictional data.",
+  "type": "module",
+  "scripts": {
+    "test": "node --test",
+    "start": "python3 -m http.server 8080"
+  }
+}
