@@ -62,6 +62,7 @@ node --test
 ```
 index.html               Page shell
 assets/css/site.css      Copied from the real portal
+assets/fonts/              Playfair Display files (SIL OFL), copied from the real portal's static/fonts
 assets/css/demo.css      Demo banner and small additions
 assets/js/app.js         Router and all pages
 assets/js/rules.js       Unlocking and scoring (mirrors core/services.py)
