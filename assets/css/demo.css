@@ -20,7 +20,7 @@ body { padding-top: var(--banner); }
 .demo-loading { padding: 48px 16px; text-align: center; color: var(--muted); }
 .role-buttons { display: grid; gap: 12px; margin: 26px 0 8px; }
 .switch-view { white-space: nowrap; }
-.answer-option.is-correct { border-color: var(--green); background: var(--pale); }
+.answer-option.is-correct { border-color: var(--primary); background: var(--pale); }
 .question-stem { font-weight: 600; margin-top: 0; }
 .pre-wrap { white-space: pre-wrap; }
 .form-error { margin-bottom: 16px; }

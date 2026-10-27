@@ -1,5 +1,5 @@
 {
- "note": "Sample content for the public demo. Written for this demo only; it is not the course's lessons or question bank, and it is awaiting faculty review.",
+ "note": "Sample content for the public demo. Written for this demo only; it is not the course's lessons or question bank.",
  "modules": [
   {
    "slug": "basic-life-support",
@@ -69,7 +69,7 @@
   {
    "slug": "interprofessional-maxillofacial-fractures",
    "order": 2,
-   "title": "Interprofessional Management of Maxillofacial Fractures",
+   "title": "Interprofessional Management of Maxillofacial Trauma",
    "subtitle": "Shared assessment, escalation, and care planning across medicine and dentistry",
    "summary": "Work in a mixed FK–FKG team to prioritize a facial-trauma presentation, combine medical and dental findings, and communicate an agreed escalation and follow-up plan.",
    "tagline": "A SHARED APPROACH TO TRAUMA",
