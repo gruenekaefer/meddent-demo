@@ -4,7 +4,7 @@ A clickable demonstration of the MED-DENT Emergencies learning portal, the joint
 
 **Live demo:** https://gruenekaefer.github.io/meddent-demo/
 
-> **Demo only.** All participants are fictional. The lessons, questions and PDF are sample content written for this demo and awaiting faculty review. Nothing here is course material, and nothing here is for clinical learning.
+> **Demo only.** All participants are fictional. The lessons, questions and PDF are sample content written for this demo. Nothing here is course material, and nothing here is for clinical learning.
 
 ## What you can try
 
@@ -62,6 +62,7 @@ node --test
 ```
 index.html               Page shell
 assets/css/site.css      Copied from the real portal
+assets/fonts/              Playfair Display files (SIL OFL), copied from the real portal's static/fonts
 assets/css/demo.css      Demo banner and small additions
 assets/js/app.js         Router and all pages
 assets/js/rules.js       Unlocking and scoring (mirrors core/services.py)
