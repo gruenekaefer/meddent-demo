@@ -41,7 +41,7 @@ Participant 01 is you: changes made in the instructor view show up in the partic
 | PDFs uploaded and access-controlled | One public demo PDF; mock uploads stay in the tab |
 | Faculty-reviewed lessons and question bank | Short sample lessons and 3 sample questions per test |
 | 4 lessons and 5 questions per test | 2 lessons and 3 questions per test |
-| Official university logo | Placeholder |
+| Official university seal | Included, as a 256 px web copy |
 
 ## Run locally
 
@@ -95,4 +95,4 @@ Never copy real lesson text, real questions, answer keys, participant data or re
 - **Code:** MIT. See [LICENSE](LICENSE).
 - **Sample content** (`data/`, `demo-material.pdf`): © 2026 Yodi Soebadi, all rights reserved.
 - **PDF.js:** Apache-2.0. See `assets/js/vendor/pdfjs/LICENSE`.
-- University names are used for identification only. The university logo is not included.
+- University names and the Universitas Airlangga seal identify the institution. The seal is a reduced web copy of the university's official file.
